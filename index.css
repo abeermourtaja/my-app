@@ -1,0 +1,31 @@
+.ant-layout-sider .ant-menu-light .ant-menu-item-selected {
+  background: rgba(24, 119, 242, 0.09);
+  border-radius: 16px;
+}
+.ant-layout-sider .ant-menu-light .ant-menu-item {
+  margin: 4px 8px;
+  height: 40px;
+  border-radius: 12px;
+}
+.ant-layout-sider .ant-menu-item .anticon {
+  font-size: 18px;
+}
+
+.search-pill .ant-input::placeholder {
+  color: #000 !important;
+}
+.search-pill .ant-input {
+  color: #000;
+}
+.search-pill .ant-input-affix-wrapper {
+  border-radius: 50px !important;   
+  overflow: hidden;                
+}
+.search-pill input {
+  border-radius: 20px 20px 20px 20px;
+}
+
+.search-pill {
+  border-radius: 20px 20px 20px 20px;
+}
+
